@@ -11,11 +11,11 @@ public class SubtractTest {
     }
     
     @BeforeClass
-    public static void setUpClass() {
+    public static void setUpClass() throws java.lang.Exception{
     }
     
     @AfterClass
-    public static void tearDownClass() {
+    public static void tearDownClass() throws java.lang.Exception{
     }
 
     /**
